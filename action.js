@@ -12,3 +12,4 @@ const addTask = ()=>{
         alert("Please write task to add it");
     }
 };
+console.log("I am learning Github and web dev.");
